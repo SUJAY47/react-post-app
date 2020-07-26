@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-post-app/static/css/main.24578f04.chunk.css",
+    "main.js": "/react-post-app/static/js/main.7277d5bb.chunk.js",
+    "main.js.map": "/react-post-app/static/js/main.7277d5bb.chunk.js.map",
+    "runtime-main.js": "/react-post-app/static/js/runtime-main.e7cc85ee.js",
+    "runtime-main.js.map": "/react-post-app/static/js/runtime-main.e7cc85ee.js.map",
+    "static/js/2.5435825d.chunk.js": "/react-post-app/static/js/2.5435825d.chunk.js",
+    "static/js/2.5435825d.chunk.js.map": "/react-post-app/static/js/2.5435825d.chunk.js.map",
+    "index.html": "/react-post-app/index.html",
+    "precache-manifest.4c435b87a828951a47c1f8d92a40cd3b.js": "/react-post-app/precache-manifest.4c435b87a828951a47c1f8d92a40cd3b.js",
+    "service-worker.js": "/react-post-app/service-worker.js",
+    "static/css/main.24578f04.chunk.css.map": "/react-post-app/static/css/main.24578f04.chunk.css.map",
+    "static/js/2.5435825d.chunk.js.LICENSE.txt": "/react-post-app/static/js/2.5435825d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-post-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7cc85ee.js",
+    "static/js/2.5435825d.chunk.js",
+    "static/css/main.24578f04.chunk.css",
+    "static/js/main.7277d5bb.chunk.js"
+  ]
+}
